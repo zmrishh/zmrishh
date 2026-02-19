@@ -13,7 +13,7 @@ i like working on problems that feel inevitable:
 ## 🧠 who i am
 
 - founder & CEO at **Kenesis Vision**
-- started building early — marketing at **15**, startups in college
+- started building early - marketing at **15**, startups in college
 - strong bias toward execution, speed, and distribution
 - obsessed with **zero-to-one** ideas, not incremental software
 
