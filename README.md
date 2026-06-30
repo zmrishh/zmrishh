@@ -15,7 +15,7 @@
 
 ## ⚡ building
 
-i'm building **Kenesis Vision** — AI for industrial environments where software has to work in the real world, not just in demos.
+i'm building **Kenesis Vision** - AI for industrial environments where software has to work in the real world, not just in demos.
 
 the thesis is simple:
 
