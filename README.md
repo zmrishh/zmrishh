@@ -1,100 +1,157 @@
-# 👋 hey, i'm amrish poornachandran.
+````md
+<div align="center">
 
-technical founder. operator. builder.
+# 👋 hey, i'm Amrish Poornachandran
 
-i'm the CEO of **Kenesis Vision**, where we're developing AI systems for real-world industrial intelligence.
+### technical founder · operator · builder
 
-i like working on problems that feel inevitable:
+[![Website](https://img.shields.io/badge/website-zmrish.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://zmrish.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-amrish-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imamrish/)
+[![X](https://img.shields.io/badge/x-@zmrish-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zmrish)
+[![Email](https://img.shields.io/badge/email-amrishstm@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrishstm@gmail.com)
 
-> *machines should understand the physical world as well as humans do.*
-
----
-
-## 🧠 who i am
-
-- founder & CEO at **Kenesis Vision**
-- started building early - marketing at **15**, startups in college
-- strong bias toward execution, speed, and distribution
-- obsessed with **zero-to-one** ideas, not incremental software
-
-i’m building toward a future where AI moves beyond chat…
-
-into **industry, infrastructure, and reality.**
+</div>
 
 ---
 
-## 🚀 what i'm building right now
+## ⚡ what i'm building
 
-### **Kenesis Vision**
-AI-native vision + intelligence for industrial environments.
+i'm building **Kenesis Vision** — AI systems for industrial environments where software has to work in the real world, not just in demos.
 
-focus areas:
+the thesis is simple:
 
-- safer operations  
-- real-time decision support  
-- autonomous monitoring  
-- enterprise-grade deployment  
-- AI systems that actually work outside demos  
+> AI will not stay inside chat boxes.  
+> it will move into factories, machines, infrastructure, and physical operations.
 
-the mission is simple:
+Kenesis Vision turns existing industrial camera infrastructure into a real-time intelligence layer for safety, operations, and decision-making.
 
-**bring reliable AI into the physical economy.**
+the goal:
+
+**make machines understand the physical world as reliably as humans do.**
 
 ---
 
-## ⚡ my background
+## 🧠 current focus
 
-- grew an instagram page to **110k+** with millions of views  
-- ran a remote agency supporting my family during covid  
-- worked with 50+ business clients before college  
-- transitioned into deep tech + product building  
-- now scaling Kenesis Vision with national-level exposure + early enterprise traction  
+- real-time factory floor intelligence
+- safety and risk detection
+- autonomous monitoring
+- industrial decision support
+- enterprise-grade AI deployment
+- systems that survive messy real-world environments
+- AI that works outside demos
 
 ---
 
-## 🏗️ current operating mode
+## 🏗️ who i am
 
-- building product + engineering as a founder  
-- preparing for institutional fundraising  
-- designing systems that win on both tech + distribution  
-- thinking long-term: **category creation**, not feature shipping  
+i started building early.
+
+at 15, i was growing pages, running marketing work, and supporting my family during covid. before college, i had already worked with 50+ business clients and built an instagram page past 110k followers with millions of views.
+
+that taught me something most engineers learn late:
+
+**distribution is also a technical skill.**
+
+today, i combine product, engineering, execution, and go-to-market to build things from zero.
+
+---
+
+## 🚀 operating mode
+
+- building product and engineering at Kenesis Vision
+- working with real industrial environments
+- preparing for institutional fundraising
+- designing systems that win on both technology and distribution
+- thinking in categories, not features
 
 ---
 
 ## 🛠️ builder stack
 
-**frontend**: react, next.js, shadcn/ui  
-**backend**: node, python  
-**ai layer**: LLM orchestration + automation  
-**product velocity**: lovable.dev  
-**infra**: cloud-native execution
+<div align="center">
+
+### frontend  
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css" />
+
+### backend  
+<img src="https://skillicons.dev/icons?i=nodejs,python,flask,express,postgres,mongodb" />
+
+### AI / infra  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,aws,gcp,docker,vercel" />
+
+### tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
+</div>
 
 ---
 
-## 📍 personal thesis
+## 📌 operating beliefs
 
-- startups are vehicles for transformation  
-- distribution is a technical skill  
-- enterprise value comes from reliability, not hype  
-- the best products feel like infrastructure  
-- execution compounds
-
----
-
-## 🌍 connect
-
-i'm building from india, aiming global.
-
-always open to high-signal conversations in:
-
-- AI + industry  
-- enterprise systems  
-- ambitious zero-to-one ideas  
-
-📩 email: **amrishstm@gmail.com**  
-🔗 linkedin: **https://www.linkedin.com/in/imamrish/**
-🐦 x: **https://x.com/zmrish**
+```txt
+execution compounds
+reliability beats hype
+distribution is leverage
+the best products become infrastructure
+category creation beats incremental software
+real-world AI is the next major software frontier
+````
 
 ---
 
-### ⭐ if you're building something real, let's talk.
+## 🌍 current obsession
+
+building AI that does not just answer questions.
+
+AI that watches, understands, decides, alerts, and eventually acts.
+
+inside industry.
+inside infrastructure.
+inside the physical economy.
+
+---
+
+## 📊 github
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zmrishh&show_icons=true&theme=transparent&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=zmrishh&theme=transparent&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmrishh&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🔗 connect
+
+building from India. aiming global.
+
+open to high-signal conversations around:
+
+* industrial AI
+* enterprise systems
+* physical-world intelligence
+* zero-to-one products
+* ambitious technical companies
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/zmrish.com-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://zmrish.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/imamrish/)
+[![X](https://img.shields.io/badge/x-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/zmrish)
+[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:amrishstm@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### if you're building something real, let's talk.
+
+</div>
+```
