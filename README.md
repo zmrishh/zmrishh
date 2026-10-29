@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/website-zmrish.com-black?style=for-the-badge\&logo=vercel\&logoColor=white)](https://zmrish.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-amrish-blue?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/imamrish/)
-[![X](https://img.shields.io/badge/x-@zmrish-black?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/zmrish)
+[![X](https://img.shields.io/badge/x-@zmrish-black?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/zmrishh)
 [![Email](https://img.shields.io/badge/email-amrish@kenesis.ai-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:amrish@kenesis.ai)
 
 </div>
